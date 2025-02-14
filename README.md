@@ -1,6 +1,6 @@
 # Lian Li HydroshiftLCD Fan Control
 
-This software runs as a systemd service written in Python.
+This software runs as a systemd service written in Python. This is a work in progress.
 
 ### Dependencies
 
